@@ -19,6 +19,7 @@ GitHub Pages
 
 
 7\域名:
+
 	仓库根目录添加文件CNAME 内容是不包含http:// 的域名
 
 	Godaddy 中域名设置-->域名转址-->填写http:// USERNAME.github.io/github-pages/
