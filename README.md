@@ -20,6 +20,6 @@ GitHub Pages
 
 7\域名:
 
-	仓库根目录添加文件CNAME 内容是不包含http:// 的域名
+	仓库根目录添加文件CNAME 内容是不包含http:// 的域名 , push
 
-	Godaddy 中域名设置-->域名转址-->填写http:// USERNAME.github.io/github-pages/
+	Godaddy 中域名设置-->添加A记录 192.30.252.153 
